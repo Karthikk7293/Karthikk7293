@@ -1,4 +1,4 @@
-# Hi, I'm [ KARTHIK K ] 👋
+# Hi, I'm  KARTHIK K  👋
 
 I'm a **Full Stack Developer** with over **2.5 years of experience** building scalable web applications using the **MERN stack**, **TypeScript**, and **AWS**. I've developed **5+ end-to-end applications**, collaborated on freelance projects, and integrated **payment gateways** and **third-party APIs**. Currently, I'm upskilling in **Advanced Data Structures & Algorithms (DSA)**, **Advanced SQL**, and **System Design (HLD/LLD)** to tackle complex technical challenges. Passionate about delivering high-quality solutions and continuous learning.
 
