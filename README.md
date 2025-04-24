@@ -48,10 +48,10 @@ I'm a **Full Stack Developer** with over **2.5 years of experience** building sc
   Designed a business profile platform with customizable templates using **React.js**, **Express.js**, and **MongoDB**.
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/[YourLinkedIn])  
-- [Twitter/X](https://x.com/[YourTwitterHandle])  
-- [Email](mailto:[YourEmail@example.com])  
-- [Portfolio](https://[YourPortfolio.com])
+- [LinkedIn]( https://www.linkedin.com/in/karthik-thedeveloperdot)  
+- [Twitter/X](https://x.com/karthikk7293)  
+- [Email](mailto:karthikk7293@gmail.com)  
+- [Portfolio](https://portfolio-nextjs-zeta-eight.vercel.app)
 
 ## ⚡ Fun Fact
 I optimized an app's performance by 75% and celebrated by debugging code with coffee at 2 AM!
