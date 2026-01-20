@@ -7,6 +7,95 @@ I’m a **Full-Stack Software Engineer with 3.5+ years of experience** building 
 I enjoy solving real-world problems, improving system reliability, and building products that handle **payments, transactions, admin workflows, and user growth** at scale.
 
 ---
+<!-- ===================== HERO SECTION ===================== -->
+
+<h1 align="center">Hi 👋, I'm Karthik K</h1>
+<h3 align="center">Full-Stack Software Engineer | FinTech | Scalable Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Next.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+FinTech+Platforms;System+Design+%7C+Performance+Optimization" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🚀 3.5+ years of experience building **production-grade fintech applications**
+* ⚡ Improved system performance by **75%** using Redis & Meilisearch
+* 🏗️ Strong in **HLD / LLD, backend architecture, and ownership-driven engineering**
+* 🧠 Currently mastering **Advanced DSA & System Design** at Scaler Academy
+* 📍 Kerala, India
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,nodejs,nestjs,express,mongodb,postgres,redis,docker,aws,git,githubactions,firebase,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karthikk7293&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Overall GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthikk7293&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikk7293&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikk7293&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="left">
+  🧊 <strong>Arctic Code Vault Contributor ×3</strong><br/>
+  🚀 <strong>YOLO</strong> – Demonstrates ownership by independently merging production-ready PRs
+</p>
+
+---
+
+## 📦 Featured Work
+
+* **IndianCashback** – Large-scale fintech platform (Next.js, NestJS, Redis, Razorpay)
+* **ICB Instantpay** – Virtual wallet & card system with bank APIs
+* **EnConnect** – Multi-tenant business profile platform
+* **Split App** – Expense & money management app with chat
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/karthik-thedeveloperdot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:karthikk7293@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Karthikk7293"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I once improved app performance by **75%** and celebrated by debugging production issues at **2 AM with coffee** ☕😄
+
+⭐ *Star my repositories if you find them useful!*
 
 ## 🚀 About Me
 
