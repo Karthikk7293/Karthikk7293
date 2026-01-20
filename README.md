@@ -13,7 +13,7 @@ I’m a **Software Development Engineer (SDE)** with **3.5+ years of experience*
 
 My work focuses on **system design, backend architecture, performance optimization**, and taking **end-to-end ownership** of features that run in real-world production environments.
 
-* ⚙️ Built and scaled systems handling payments, wallets, admin workflows
+* ⚙️ Built and scaled systems handling payments, wallets, and admin workflows
 * ⚡ Improved application performance by **75%** using Redis caching & search optimization
 * 🧠 Strong foundation in **DSA, Advanced SQL, HLD & LLD**
 * 🏗️ Comfortable designing schemas, APIs, and scalable architectures
