@@ -17,7 +17,7 @@ My work focuses on **system design, backend architecture, performance optimizati
 * ⚡ Improved application performance by **75%** using Redis caching & search optimization
 * 🧠 Strong foundation in **DSA, Advanced SQL, HLD & LLD**
 * 🏗️ Comfortable designing schemas, APIs, and scalable architectures
-* 📍 Kerala, India
+* 📍 Bengaluru, India
 
 ---
 
