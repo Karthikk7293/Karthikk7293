@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Development Engineer (SDE)** with **3.5+ years of experience** building and scaling **production-grade web platforms**, primarily in **fintech and transaction-heavy systems**.
+I’m a **Software Development Engineer (SDE)** with **4+ years of experience** building and scaling **production-grade web platforms**, primarily in **fintech and transaction-heavy systems**.
 
 My work focuses on **system design, backend architecture, performance optimization**, and taking **end-to-end ownership** of features that run in real-world production environments.
 
