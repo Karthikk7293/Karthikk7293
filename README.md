@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer · Fintech & SaaS · Palakkad, Kerala, India**
 
-I have **4+ years of experience** building production web applications across the interface, backend services, and data model. At Spacez, I own **PMS and CashBook**: a 55+ module operations platform spanning payments, ledgers, invoicing, AI-assisted document verification, and its caretaker Android app.
+I have **4+ years of experience** building production web applications across the interface, backend services, and data model. At Spacez, I contribute across **Spacez and Spacez PMS (Product Management Systems)**, with end-to-end ownership spanning 55+ PMS modules, architecture, backend services, web interfaces, the shared design system, and Android delivery.
 
 **[Portfolio & case studies](https://portfolio-nextjs-zeta-eight.vercel.app/) · [SDE résumé](https://portfolio-nextjs-zeta-eight.vercel.app/resume.pdf) · [Fintech résumé](https://portfolio-nextjs-zeta-eight.vercel.app/resume-fintech.pdf) · [LinkedIn](https://www.linkedin.com/in/karthik-thedeveloperdot) · [Email](mailto:karthikk7293@gmail.com)**
 
@@ -10,7 +10,7 @@ I have **4+ years of experience** building production web applications across th
 
 | Product                                                                                 | My contribution                                                                                                           | Main technologies                                                   |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Spacez PMS & CashBook](https://portfolio-nextjs-zeta-eight.vercel.app/work/spacez-pms) | 55+ operations modules, wallet webhook ingestion, seven-source spend reconciliation, invoicing, and document verification | Next.js, TypeScript, Firestore, Firebase Admin, Zustand, Claude API |
+| [Spacez & Spacez PMS (Product Management Systems)](https://portfolio-nextjs-zeta-eight.vercel.app/work/spacez-pms) | End-to-end development across 55+ PMS modules: bookings, calendar, pricing, operations, finance, media, communications, owner/franchise portals, and Android delivery; architecture, backend, frontend, and shared design system | Next.js, TypeScript, Firebase, Zustand, Capacitor, Claude API |
 | [Spacez.co](https://portfolio-nextjs-zeta-eight.vercel.app/work/spacez)                 | Website redesign, booking/add-on flows, Razorpay payments, pricing/coupons, and funnel analytics                          | Next.js, TypeScript, Firebase, Tailwind, Razorpay                   |
 | [IndianCashback](https://portfolio-nextjs-zeta-eight.vercel.app/work/indiancashback)    | Frontend/backend redesign, schema changes, Redis caching, Meilisearch, and admin workflows                                | Next.js, NestJS, React, Express, MongoDB, Redis, Meilisearch        |
 | ICB Wallet                                                                              | Virtual wallet and card workflows using the InstantPay bank API                                                           | Next.js, NestJS, MongoDB                                            |
