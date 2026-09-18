@@ -1,113 +1,52 @@
-<h1 align="center">Hi, I'm Karthik K 👋</h1>
-<h3 align="center">Software Development Engineer (SDE)</h3>
+# Hi, I’m Karthik K
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Software+Development+Engineer;Scalable+Web+Systems;Next.js+%7C+NestJS+%7C+TypeScript;System+Design+%7C+Performance+Optimization" alt="Typing SVG" />
-</p>
+**Full-Stack Software Engineer · Fintech & SaaS · Palakkad, Kerala, India**
 
----
+I have **4+ years of experience** building production web applications across the interface, backend services, and data model. At Spacez, I own **PMS and CashBook**: a 55+ module operations platform spanning payments, ledgers, invoicing, AI-assisted document verification, and its caretaker Android app.
 
-## 👨‍💻 About Me
+**[Portfolio & case studies](https://portfolio-nextjs-zeta-eight.vercel.app/) · [SDE résumé](https://portfolio-nextjs-zeta-eight.vercel.app/resume.pdf) · [Fintech résumé](https://portfolio-nextjs-zeta-eight.vercel.app/resume-fintech.pdf) · [LinkedIn](https://www.linkedin.com/in/karthik-thedeveloperdot) · [Email](mailto:karthikk7293@gmail.com)**
 
-I’m a **Software Development Engineer (SDE)** with **4+ years of experience** building and scaling **production-grade web platforms**, primarily in **fintech and transaction-heavy systems**.
+## Professional work
 
-My work focuses on **system design, backend architecture, performance optimization**, and taking **end-to-end ownership** of features that run in real-world production environments.
+| Product                                                                                 | My contribution                                                                                                           | Main technologies                                                   |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Spacez PMS & CashBook](https://portfolio-nextjs-zeta-eight.vercel.app/work/spacez-pms) | 55+ operations modules, wallet webhook ingestion, seven-source spend reconciliation, invoicing, and document verification | Next.js, TypeScript, Firestore, Firebase Admin, Zustand, Claude API |
+| [Spacez.co](https://portfolio-nextjs-zeta-eight.vercel.app/work/spacez)                 | Website redesign, booking/add-on flows, Razorpay payments, pricing/coupons, and funnel analytics                          | Next.js, TypeScript, Firebase, Tailwind, Razorpay                   |
+| [IndianCashback](https://portfolio-nextjs-zeta-eight.vercel.app/work/indiancashback)    | Frontend/backend redesign, schema changes, Redis caching, Meilisearch, and admin workflows                                | Next.js, NestJS, React, Express, MongoDB, Redis, Meilisearch        |
+| ICB Wallet                                                                              | Virtual wallet and card workflows using the InstantPay bank API                                                           | Next.js, NestJS, MongoDB                                            |
+| EnConnect                                                                               | Multi-tenant business profiles, tiered templates, and role-based admin panels                                             | React, Express, MongoDB                                             |
 
-* ⚙️ Built and scaled systems handling payments, wallets, and admin workflows
-* ⚡ Improved application performance by **75%** using Redis caching & search optimization
-* 🧠 Strong foundation in **DSA, Advanced SQL, HLD & LLD**
-* 🏗️ Comfortable designing schemas, APIs, and scalable architectures
-* 📍 Bengaluru, India
+The portfolio describes my professional contributions at a high level. Employer source code is private.
 
----
+## Experience
 
-## 🛠️ Technical Skills
+- **Spacez Pvt Ltd** — Software Development Engineer 1 · May 2025–present
+- **One Team Solutions Edtech Pvt Ltd** — Freelance MERN Stack Trainer · Jan–Nov 2025
+- **Auxxweb Solutions** — Associate Frontend Developer · Jun–Dec 2024
+- **Revontulet Solutions** — Full-stack Developer · Jul 2022–Mar 2024
 
-**Languages**
-TypeScript, JavaScript, Java, Python
+## Projects you can explore
 
-**Frontend**
-React.js, Next.js
+| Project                  | What it demonstrates                                                                | Links                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Smartcare**            | Service booking validation, server-side integrations, and integration/browser tests | [Code](https://github.com/Karthikk7293/smartcare) · [Demo](https://smartcare-mu-lyart.vercel.app/) |
+| **Kinetic · Engine Lab** | Interactive 3D assembly, local hand tracking, and keyboard/pointer controls         | [Code](https://github.com/Karthikk7293/buildverse) · [Demo](https://buildverse-five.vercel.app/)   |
+| **Dudu finds Bubu**      | Browser-based 3D exploration, pathfinding, mobile controls, and procedural audio    | [Code](https://github.com/Karthikk7293/dudufindbubu) · [Demo](https://dudufindbubu.vercel.app/)    |
 
-**Backend**
-Node.js, NestJS, Express.js (REST APIs, modular architecture)
+## Toolkit
 
-**Databases**
-MongoDB, PostgreSQL, SQL
+- **Languages:** TypeScript, JavaScript, Python, Java
+- **Frontend:** React, Next.js App Router, Tailwind CSS, Zustand
+- **Backend:** Node.js, NestJS, Express, Next.js API Routes, Django REST APIs
+- **Data & search:** PostgreSQL, MongoDB, Firestore, SQL, Redis, Meilisearch
+- **Money systems:** Razorpay, PayPal, bank/wallet APIs, webhook ingestion, invoicing, ledgers, reconciliation
+- **AI & automation:** Claude API, OpenAI, OCR pipelines, Puppeteer
+- **Cloud & mobile:** AWS EC2/S3, Docker, GitHub Actions, Vercel, Render, Firebase Auth/Storage/FCM, Capacitor Android
 
-**Caching & Search**
-Redis, Meilisearch
+## Education & learning
 
-**Payments & Integrations**
-Razorpay, PayPal, Instantpay (Bank APIs)
+- **Scaler Academy:** Advanced DSA and SQL; High-Level Design and Low-Level Design
+- **Brototype:** Full-stack Development (MERN) · Dec 2021–Jul 2022
+- **IPT and GPTC:** Diploma in Electronics Engineering · Jun 2018–Oct 2021
 
-**Cloud & DevOps**
-AWS EC2, AWS S3, Docker, GitHub Actions, Vercel, Render
-
----
-
-## 📊 GitHub Activity
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Karthikk7293&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikk7293&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikk7293&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-* 🧊 **Arctic Code Vault Contributor ×3**
-  Contributions to repositories preserved by GitHub, recognizing meaningful open-source impact
-
-* 🚀 **YOLO**
-  Demonstrates strong ownership by independently merging production-ready pull requests
-
----
-
-## 🧩 Key Work & Projects
-
-* **IndianCashback** – Large-scale fintech platform with admin & user systems
-  *Next.js, NestJS, MongoDB, Redis, Meilisearch, Razorpay*
-
-* **ICB Instantpay** – Virtual wallet & card system with bank API integrations
-  *Next.js, NestJS, MongoDB*
-
-* **EnConnect** – Multi-tenant business profile & admin platform
-  *React.js, Express (TS), MongoDB*
-
-* **Split App** – Money management & expense-splitting application
-  *Next.js, MongoDB*
-
----
-
-## 🎓 Learning & Growth
-
-* **Scaler Academy** – Software Development Engineer
-  Advanced DSA, Advanced SQL, High-Level & Low-Level Design
-
-* Continuous focus on:
-
-  * System design trade-offs
-  * Scalability & performance
-  * Clean, maintainable codebases
-
----
-
-## 📫 Connect With Me
-
-* 🔗 LinkedIn: [https://www.linkedin.com/in/karthik-thedeveloperdot](https://www.linkedin.com/in/karthik-thedeveloperdot)
-* 💻 GitHub: [https://github.com/Karthikk7293](https://github.com/Karthikk7293)
-* 📧 Email: [karthikk7293@gmail.com](mailto:karthikk7293@gmail.com)
-
----
-
-⭐ If you find my work useful, feel free to star the repositories.
+Open to full-stack engineering roles, freelance projects, and product collaborations. [Get in touch](mailto:karthikk7293@gmail.com).
