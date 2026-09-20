@@ -4,6 +4,8 @@
 
 I have **4+ years of experience** building production web applications across the interface, backend services, and data model. At Spacez, I contribute across **Spacez and Spacez PMS (Product Management Systems)**, with end-to-end ownership spanning 55+ PMS modules, architecture, backend services, web interfaces, the shared design system, and Android delivery.
 
+I also built **[Orange](https://portfolio-nextjs-zeta-eight.vercel.app/work/orange)**, a multifunctional money management app with Flutter and a NestJS/MongoDB backend.
+
 **[Portfolio & case studies](https://portfolio-nextjs-zeta-eight.vercel.app/) · [SDE résumé](https://portfolio-nextjs-zeta-eight.vercel.app/resume.pdf) · [Fintech résumé](https://portfolio-nextjs-zeta-eight.vercel.app/resume-fintech.pdf) · [LinkedIn](https://www.linkedin.com/in/karthik-thedeveloperdot) · [Email](mailto:karthikk7293@gmail.com)**
 
 ## Professional work
@@ -17,6 +19,21 @@ I have **4+ years of experience** building production web applications across th
 | EnConnect                                                                               | Multi-tenant business profiles, tiered templates, and role-based admin panels                                             | React, Express, MongoDB                                             |
 
 The portfolio describes my professional contributions at a high level. Employer source code is private.
+
+## Featured personal product · Orange
+
+**[Orange — money management app](https://portfolio-nextjs-zeta-eight.vercel.app/work/orange)** brings personal spending and shared expenses together. I built the Flutter app and NestJS backend, including:
+
+- Expense tracking, equal/percentage/custom splits, and local drafts with Hive.
+- Friends, groups, event budgets, balances, and settlement records.
+- Gemini receipt scanning that prefills an editable expense form.
+- Direct/group chat with expense and settlement cards, plus spending summaries and category/time-based insights.
+
+Engineering work includes integer minor-unit money calculations, split rounding, independent loading states, authenticated API access, and receipt uploads deferred until save. Current mobile chat uses REST; the backend also includes a Socket.IO gateway. Rewards and subscription screens remain previews.
+
+**Flutter · Dart · NestJS · MongoDB · Dio · Hive · Gemini**
+
+Source is private. **[Read the case study](https://portfolio-nextjs-zeta-eight.vercel.app/work/orange)** for the product scope and engineering decisions.
 
 ## Experience
 
@@ -35,13 +52,14 @@ The portfolio describes my professional contributions at a high level. Employer 
 
 ## Toolkit
 
-- **Languages:** TypeScript, JavaScript, Python, Java
+- **Languages:** TypeScript, JavaScript, Dart, Python, Java
 - **Frontend:** React, Next.js App Router, Tailwind CSS, Zustand
 - **Backend:** Node.js, NestJS, Express, Next.js API Routes, Django REST APIs
 - **Data & search:** PostgreSQL, MongoDB, Firestore, SQL, Redis, Meilisearch
 - **Money systems:** Razorpay, PayPal, bank/wallet APIs, webhook ingestion, invoicing, ledgers, reconciliation
-- **AI & automation:** Claude API, OpenAI, OCR pipelines, Puppeteer
-- **Cloud & mobile:** AWS EC2/S3, Docker, GitHub Actions, Vercel, Render, Firebase Auth/Storage/FCM, Capacitor Android
+- **AI & automation:** Claude API, Gemini, OpenAI, receipt extraction, OCR pipelines, Puppeteer
+- **Mobile:** Flutter, Dart, Dio, Hive, Capacitor Android
+- **Cloud & delivery:** AWS EC2/S3, Docker, GitHub Actions, Vercel, Render, Firebase Auth/Storage/FCM
 
 ## Education & learning
 
